@@ -1,0 +1,90 @@
+ h1{
+    text-align:center ;
+}
+#main {
+    text-align: center;
+}
+#verticle-line {
+    width:2px;
+    height: 600px;
+    background-color: rgb(31, 28, 28);
+   position:absolute;
+   left: 650px;
+}
+.skill {
+    position:absolute;
+    left: 470px;
+    
+}
+#inside {
+    position:absolute;
+    left: 420px;
+}
+
+
+.main {
+    position :relative;
+    top:150px;
+    left:460px;    
+}
+
+#einside {
+
+     position:relative;
+     top:150px;
+     left: 411px;
+}
+
+
+
+
+.right {
+      position:relative;
+      left: 670px;
+     bottom:350px;
+   
+
+}
+
+#rightinside {
+    position:relative;
+      left: 650px;
+      bottom:325px;
+      
+}
+body {
+    background-color: rgb(241, 245, 247);
+}
+#contact {
+    position:relative;
+    left: 670px;
+    bottom:395px;
+}
+#insidecontact {
+    position:relative;
+    left: 650px;
+    bottom:395px;
+}
+
+#picture {
+position:relative;
+left:550px;
+border:solid;
+}
+body {
+    border:solid;
+    height: 960px;
+       
+} 
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+ 
+
+
+
+
+
+
+
+
